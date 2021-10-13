@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Nishtyachok
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I'm @Nishtyachok
+- 👀 I'm interested in coding
+- 🌱 I'm studying other people's code right now
+- 💞️ I want to collaborate with anyone 
+- 📫 How to contact me: any way you can think of
 
 <!---
 Nishtyachok/Nishtyachok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
